@@ -1,4 +1,4 @@
-# European League Data Analysis 📊⚽
+# European Leagues Data Analysis 📊⚽
 ### 📝Description
 Welcome to the European League Data Analysis repository! Here, I dive into the [European Soccer Database from Kaggle](https://www.kaggle.com/datasets/hugomathien/soccer), performing complex SQL queries that involve Common Table Expressions (CTEs), table transformations, SQL functions, and more. This dataset encompasses detailed information about matches, teams, players, and various other aspects of European soccer.
 
